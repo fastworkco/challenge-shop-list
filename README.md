@@ -32,6 +32,6 @@ Bonus
 - If which item out of stock (`amount` = 0) should display that product with disable UI and you can design by yourself
 
 *** Please feel free to do any ideas to enhance user experience (UX) :rocket:
-- optimize your application to minimize bundle size.
-- boost page speed.
-- or any animation.
+- Optimize your application to minimize bundle size.
+- Boost page speed.
+- Or any animation.
