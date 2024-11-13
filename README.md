@@ -31,7 +31,7 @@ Bonus
 - Implement logic to update the `amount` when order confirmed. No need to update via API, So it's mean if refresh the page the amount will be the same in API get items
 - If which item out of stock (`amount` = 0) should display that product with disable UI and you can design by yourself
 
-*** Please feel free to do any ideas to enhance user experience (UX), 
+*** Please feel free to do any ideas to enhance user experience (UX) :rocket:
 - optimize your application to minimize bundle size.
 - boost page speed.
 - or any animation.
