@@ -25,3 +25,8 @@ Your users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 - In desktop view, the order card should stick to the screen when users scroll down
+
+Bonus
+- Add attribute `amount` for each item in `data.json` to show the current of number of that item
+- Implement logic to update the `amount` when order confirmed. No need to update via API, So it's mean if refresh the page the amount will be the same in API get items
+- If which item out of stock (`amount` = 0) should display that product with disable UI and you can design by yourself
