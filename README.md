@@ -14,7 +14,7 @@ Technical Requirements:
 - Pure CSS only (no frameworks like Tailwind or Bootstrap)
 - Preprocessors such as SCSS, SASS, or LESS are permitted
 
-The product data is provided in a `data.json` file. You'll need to implement an API endpoint to fetch and serve this data to your application.
+| The product data is provided in a `data.json` file. You'll need to implement an API endpoint to fetch and serve this data to your application.
 
 Your users should be able to:
 
