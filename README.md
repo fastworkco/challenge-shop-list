@@ -4,7 +4,7 @@ Your challenge is to build out this product list project that includes a functio
 
 To get started:
 1. Fork this repository
-2. Navigate to the `product-list-challenge` folder
+2. Navigate to the `challenge` folder
 3. Begin working on your implementation
 4. When complete, submit your work via pull request
 
